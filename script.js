@@ -623,7 +623,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 // GitHub API Integration
 document.addEventListener('DOMContentLoaded', function() {
-  const username = 'abhijeetBhale';
+  const username = 'Indu1905';
+
   
   // GitHub API endpoints
   const endpoints = {
